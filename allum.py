@@ -1,6 +1,6 @@
 import time
 
-nb_allumette = 20
+nb_allumette = int(input("Combien d'allumette dans le jeux ? "))
 joueur = 1
 seconde = 5
 
